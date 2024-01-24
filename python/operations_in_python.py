@@ -51,10 +51,3 @@ b=3
 power=a**b
 print("output is ",power) #output is 8
 
-
-
-
-
-
-
-
