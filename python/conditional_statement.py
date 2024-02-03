@@ -16,4 +16,10 @@ y=20
 z=30
 print((x>y)and(y>z)) #output: false
 print((x<y)or(y<z)) #output: true
- 
+number=20
+if(number%2==0):
+    print(number,"is a even.")
+else:
+    print(number,"is a odd.")
+    
+    
