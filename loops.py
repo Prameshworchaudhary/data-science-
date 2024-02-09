@@ -40,3 +40,4 @@ for y in range(1,10): #output: from 1 to 9
 
 for z in range(2,20,3): #(2,20,3)=2,2+3=5,5+3=8,11,14,17
     print(z)
+    
