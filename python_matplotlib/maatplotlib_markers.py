@@ -26,14 +26,15 @@ plt.plot(ypoints, marker = 'o', ms = 20)
 plt.show()
 
 #Marker Color
-#You can use the keyword argument markeredgecolor or the shorter mec to set the color of the edge of the makers
+#You can use the keyword argument markeredgecolor or the shorter mec to set the color of the edge of the markers
 
 ypoints = np.array([3, 8, 1, 10])
 
 plt.plot(ypoints, marker = 'o', ms = 20, mec = 'r')
 plt.show()
 
-#You can use the keyword argument markerfacecolor or the shorter mfc to set the color inside the edge of the makersypoints = np.array([3, 8, 1, 10])
+#You can use the keyword argument markerfacecolor or the shorter mfc to set the color inside the edge of the markers
+# ypoints = np.array([3, 8, 1, 10])
 
 plt.plot(ypoints, marker = 'o', ms = 20, mfc = 'r')
 plt.show()
