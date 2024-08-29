@@ -48,4 +48,3 @@ print(arr[0])
 print(arr[4])
 print(arr[3])
 
-
